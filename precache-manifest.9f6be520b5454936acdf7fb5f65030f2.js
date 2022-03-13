@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b6b80548ef282d2f5c38",
+    "revision": "4ed710567612401b1796",
     "url": "/test-cake/static/css/main.13d28647.chunk.css"
   },
   {
-    "revision": "b6b80548ef282d2f5c38",
-    "url": "/test-cake/static/js/main.b6b80548.chunk.js"
+    "revision": "4ed710567612401b1796",
+    "url": "/test-cake/static/js/main.4ed71056.chunk.js"
   },
   {
     "revision": "709d58a229027795f766",
     "url": "/test-cake/static/js/1.709d58a2.chunk.js"
   },
   {
-    "revision": "169bc872531a3d6c4f6c",
-    "url": "/test-cake/static/js/2.169bc872.chunk.js"
+    "revision": "c3c40584c5d10bc12db0",
+    "url": "/test-cake/static/js/2.c3c40584.chunk.js"
   },
   {
     "revision": "a52c1ba22ab77eb7bb5b",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/test-cake/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "77f267bc2df487659c152126b86e43dc",
+    "revision": "1e3dba0ab8830a04a2c065078ba50de5",
     "url": "/test-cake/index.html"
   }
 ];
